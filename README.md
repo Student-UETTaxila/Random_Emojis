@@ -5,9 +5,7 @@ Random Emoji on Hover
 A simple and fun web project built using **HTML**, **CSS**, and **JavaScript** where a random emoji appears every time the user hovers over the emoji box.
 
 ## 🚀 Live Demo
-
-[Click here to view live (optional link)](https://your-github-username.github.io/random-emoji-hover)
-
+ https://student-uettaxila.github.io/Random_Emojis/
 ## 📂 Project Structure
 
 random-emoji-hover/
@@ -34,7 +32,6 @@ random-emoji-hover/
 - Generating random values using `Math.random()`
 - Styling hover effects using CSS
 
-## 📸 Screenshots
 
 
 📬 Contact
